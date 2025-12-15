@@ -1,4 +1,4 @@
-# Palette based image Colorization 
+# Palette-based image Colorization 
 
 Official implementation of [Exploring Palette based Color Guidance in Diffusion Models](https://arxiv.org/abs/2508.08754), ACM MM 2025.
 
